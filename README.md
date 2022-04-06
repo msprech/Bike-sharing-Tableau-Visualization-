@@ -2,7 +2,7 @@
 
 ## Purpose
 
-NYC's Citi Bike program provides both financial and social benefits through a strong business model and clientele base. This analysis seeks to highlight what aspects make the program so successful, as well as if those characteristics could be emulated in a bike share business in Iowa. 
+NYC's Citi Bike program provides both financial and social benefits through a strong business model and clientele base. This analysis seeks to highlight what aspects make the program so successful, as well as if those characteristics could be emulated in a similar bike share business in Iowa. 
 
 Citi Bike travel data was analyzed using Tableau and Python to create a [thorough presentation](https://public.tableau.com/app/profile/molly.sprecher/viz/BikeAnalysis_16391914354240/Story1?publish=yes "thorough presentation") of the data. 
 
